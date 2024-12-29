@@ -172,7 +172,7 @@ export class WelcomePanel {
 						<div class="Card-inner">
 							<p class="Card-title">Learning V</p>
 							<p class="Card-content">If you're new to the V programming language,
-								<a href="https://docs.vosca.dev">docs.vosca.dev</a> is a great place to get started.</a>
+								<a href="https://docs.vlang.io/">docs.vlang.io</a> is a great place to get started.</a>
 							</p>
 						</div>
 					</div>
